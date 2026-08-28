@@ -1,5 +1,9 @@
 # event_planner
 ⭐ The Correct GitHub Pages Deployment Workflow (React + Vite)
+<<<<<<< HEAD
+=======
+
+>>>>>>> a01ecf77f8a616e9ae46eb08f0dce59ac90791b5
 1️⃣ Develop on main only
 All your real code lives in: 
 main
